@@ -1,0 +1,28 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+*.project
+*.classpath
+*.settings/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+#PyCharm files
+venv
+
+# Default ignored files
+/shelf/
+/workspace.xml
